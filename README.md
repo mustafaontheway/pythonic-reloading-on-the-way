@@ -10,4 +10,3 @@ From 2026 to 2028:
 
 * Probability and Statistics
 
-* Algorithms and Data Structures
