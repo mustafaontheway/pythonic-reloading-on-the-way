@@ -8,5 +8,5 @@ From 2026 to 2028:
 
 * Data cleaning and Preprocessing
 
-* Probability and Statistics
+* Probability and Statistics 
 
