@@ -1,10 +1,12 @@
 From 2026 to 2028:
 
-* AI (Deep Learning, Genetic Algorithms, AI Agents, Reinforcement Learning, Fuzzy Logic, Graph Theory)
+* AI
 
 * Pandas and Numpy
 
 * Time Series
+
+* Backtesting, Indicators and Momentum Strategy
 
 * Data cleaning and Preprocessing
 
