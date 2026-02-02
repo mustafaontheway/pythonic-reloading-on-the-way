@@ -6,7 +6,7 @@ From 2026 to 2028:
 
 * Time Series
 
-* Backtesting, Indicators and Momentum Strategy
+* Algo Trade (?!)
 
 * Data cleaning and Preprocessing
 
