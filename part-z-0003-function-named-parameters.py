@@ -9,4 +9,4 @@ print(emp_ayhan) # Employee full-name: Ayhan Bilir, department: Sales, salary: 7
 
 emp_bengu = emp_data(salary=65_000, department="Marketing", full_name="Bengü Burada")
 
-print(emp_bengu) $ Employee full-name: Bengü Burada, department: Marketing, salary: 65000
+print(emp_bengu) # Employee full-name: Bengü Burada, department: Marketing, salary: 65000
