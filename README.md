@@ -10,10 +10,10 @@ From 2026 to 2028:
 
 * Time Series
 
-* Algo Trade (?!)
+* Algo Trade (Some parts...)
 
 * Data cleaning and Preprocessing
 
-* Probability and Statistics 
+* Probability and Statistics (Some parts for algo trade related)
 
 * Some Python 
