@@ -18,4 +18,6 @@ From 2026 to 2028:
 
 * Probability and Statistics (Some parts for algo trade related)
 
+* FastAPI
+
 * Some Python 
