@@ -4,6 +4,8 @@ From 2026 to 2028:
 
 * Vyper Smart Contracts
 
+* Python DSA
+
 * Pydantic
 
 * Pandas and Numpy
