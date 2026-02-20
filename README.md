@@ -4,15 +4,13 @@ From 2026 to 2028:
 
 * Vyper Smart Contracts
 
+* Polars
+
 * Python DSA
 
 * Pydantic
 
-* Pandas and Numpy
-
 * Time Series
-
-* Algo Trade (Some parts...)
 
 * Data cleaning and Preprocessing
 
