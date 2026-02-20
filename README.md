@@ -1,12 +1,10 @@
 From 2026 to 2028:
 
-* AI (Deep Learning, Agents etc...)
+* Agentic AI
 
 * Vyper Smart Contracts
 
 * Polars
-
-* Python DSA
 
 * Pydantic
 
@@ -14,7 +12,9 @@ From 2026 to 2028:
 
 * Data cleaning and Preprocessing
 
-* Probability and Statistics (Some parts for algo trade related)
+* Probability and Statistics (Some parts for algo trade related
+
+* Python DSA
 
 * FastAPI
 
