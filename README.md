@@ -8,4 +8,6 @@ From 2026 to 2028:
 
 * Time Series
 
+* Genetic Algorithms
+
 * Some Python 
