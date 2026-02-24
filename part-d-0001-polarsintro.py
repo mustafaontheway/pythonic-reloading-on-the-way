@@ -6,4 +6,4 @@ print("--------------------------------------")
 
 df = pl.DataFrame({"Name": ["Python", "Rust", "Kotlin", "Vyper"], "Age": [96, 17, 24, 45]})
 
-display(df)
+print(df)
