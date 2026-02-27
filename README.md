@@ -6,7 +6,7 @@ From 2026 to 2028:
 
 * Polars
 
-* FastAPI, Pydantic, Redis
+* FastAPI, Pydantic, MongoDB
 
 * Time Series
 
