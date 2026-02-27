@@ -6,8 +6,6 @@ From 2026 to 2028:
 
 * Polars
 
-* FastAPI, Pydantic, MongoDB
-
 * Time Series
 
 * Genetic Algorithms
